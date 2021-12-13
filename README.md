@@ -8,6 +8,7 @@ Change the input images path to your labelled images path in google drive and ru
 # Dataset 
 Prepared from google earth images and labelled using labelbox, 
 Dataset contained 2000 images but only 101 images were used for training
+Ping me if you want the dataset
 
 # Result:
 Model is able to predict solar panels from input images and its size with more than 90% accuracy 
