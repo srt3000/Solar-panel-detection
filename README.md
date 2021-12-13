@@ -1,7 +1,7 @@
 # Solar-panel-detection
 Solar panel detection using YOLOV3 model with pretrained darknet 53 model
 
-How to run:
+# How to run:
 Open the code in Google Colab, 
 Change the input images path to your labelled images path in google drive and run the code. 
 
